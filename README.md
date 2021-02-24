@@ -144,7 +144,7 @@ body{
 
 label{
 
-    font-size:15px;
+    font-size:35px;
 
 }
 
