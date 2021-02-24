@@ -90,7 +90,7 @@ Week
 
 <input type="email" value=""><br><label>enquiry box</label>
 
-<textarea style="border:blue solid"></textarea><br>
+<textarea ></textarea><br>
 
 <input style="padding:20px 280px; background-color:greenyellow;" type="submit" value="submit inquiry">
 
