@@ -27,7 +27,7 @@ For immune power
 <meta http-equiv="refresh"  content="text/html;charset=UTF-8" />
 
 
-   <p style="padding:5px 100px;"> WELCOME </p>
+   <p style="padding:5px 300px;"> WELCOME </p>
 
   
 
@@ -53,7 +53,7 @@ For immune power
 
 </fieldset>
 
-<fieldset >
+<fieldset>
 
 <legend style="font-color:brown; font-size:20px;">know about our site</legend>
 
@@ -98,6 +98,7 @@ For immune power
 <label>female</label>
 
 <input type="radio" value=""><br>
+<label>Nationality</label><br>
 
 <label>Indian </label>
 
@@ -121,7 +122,7 @@ For immune power
 
 <small> if you click the submit inquiry, your details and profile photo will be saved forour requirements.convenient charges applicable for messages.<small>
 
-<br>
+
 
 
 
@@ -133,7 +134,7 @@ For more details,
 
 <style>
 a{
-   font-size:20px;
+   font-size:5px;
 }
 h1{
 
