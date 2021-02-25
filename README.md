@@ -101,7 +101,7 @@ For immune power
 
 <label>Indian </label>
 
-<input style type="checkbox" value ="">
+<input type="checkbox" value ="">
 
 <label>Foreigner</label>
 
@@ -113,7 +113,7 @@ For immune power
 
 <label>mail id</label>
 
-<input type="email" value=""><br><label>enquiry box</label>
+<input type="email" name="" id="" value=""><br><label>enquiry box</label>
 
 <textarea > </textarea><br>
 
