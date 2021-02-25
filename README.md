@@ -27,7 +27,7 @@ For immune power
 <meta http-equiv="refresh"  content="text/html;charset=UTF-8" />
 
 
-   <p>  </p>
+   <p> </p>
 
   
 
@@ -123,7 +123,7 @@ For more details,
 
 <style>
 a{
-   font-size:40px;
+   font-size:20px;
 }
 h1{
 
