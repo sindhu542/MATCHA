@@ -16,7 +16,7 @@ For immune power
 
   
 
-<fieldset >
+<fieldset style="background-color:aqua;" >
 
 <input style="width:100px;" type="submit" value="shop">
 
@@ -42,7 +42,7 @@ For immune power
 
 <h1>we've long enjoyed the healing power of matcha</h1>
 
-<input type="image" name="sam" id="sam" src="a.jpg" alt="a"><br><br>
+<img class="image" src="files./sam.jpeg" alt="green"/><br><br>
 
 <h4>matcha for daily immune support</h4>
 
@@ -90,7 +90,7 @@ For immune power
 
 <input type="email" value=""><br><label>enquiry box</label>
 
-<textarea ></textarea><br>
+<textarea > </textarea><br>
 
 <input style="padding:20px 280px; background-color:greenyellow;" type="submit" value="submit inquiry">
 
@@ -107,7 +107,9 @@ For more details,
 </a>
 
 <style>
-
+a{
+   font-size:40px;
+}
 h1{
 
    color:red;
