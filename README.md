@@ -27,7 +27,7 @@ For immune power
 <meta http-equiv="refresh"  content="text/html;charset=UTF-8" />
 
 
-   <p style="padding:5px 300px;"> WELCOME </p>
+   <p style="padding:5px 260px;"> WELCOME </p>
 
   
 
