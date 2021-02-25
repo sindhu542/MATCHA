@@ -14,6 +14,21 @@ For immune power
 
 <link rel="stylesheet" hrel="stylesheet.css" type="text/css" media="all">
 
+<link rel="apple-touch-icon" href="facicon.png" />
+
+<link rel="alternate" href="rss.xml" title="RSS" type="application/atom+xml" />
+
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+<link rel="alternate" href="atom.xml" title="Atom" type="application/atom+xml" />
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+<meta http-equiv="X-UA-compatible"  content="IE=7,8,edge" />
+<meta http-equiv="refresh"  content="text/html;charset=UTF-8" />
+
+
+   <p>  </p>
+
   
 
 <fieldset style="background-color:aqua;" >
@@ -42,7 +57,7 @@ For immune power
 
 <h1>we've long enjoyed the healing power of matcha</h1>
 
-<img class="image" src="files./sam.jpeg" alt="green"/><br><br>
+<img class="image" src="sam.jpeg" alt="nature"/><br><br>
 
 <h4>matcha for daily immune support</h4>
 
@@ -96,7 +111,7 @@ For immune power
 
 <small> if you click the submit inquiry, your details and profile photo will be saved forour requirements.convenient charges applicable for messages.<small>
 
-
+<br><br>
 
 
 
