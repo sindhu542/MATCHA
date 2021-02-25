@@ -55,11 +55,33 @@ For immune power
 
 <fieldset>
 
-<legend style="font-color:brown; font-size:20px;">know about our site</legend>
+<legend style="font-color:brown;font-size:20px;">😀know about our site☺️</legend>
 
 <h1>we've long enjoyed the healing power of matcha</h1>
 
-<img class="image" src="sam.jpeg" alt="nature"/><br><br>
+<img class="image" src=".files/sam.jpeg" alt="nature"/><br>
+<img class="image" src=".files/238.png"  alt="health"/><br><br>
+<label></label>
+
+<ul>
+
+<li>matcha curry</li>
+<li>matcha green tea</li>
+<li>matcha toothpaste</li>
+
+<li>matcha ayurvedic soap</li>
+
+</ul>
+
+
+
+
+
+
+
+
+
+
 
 <h4>matcha for daily immune support</h4>
 
@@ -73,7 +95,9 @@ For immune power
 
 <h3>Need some help?fill this contact form</h3>
 
-<fieldset>
+<fieldset
+
+<legend> 🌸details🌺 </legend>
 
 <form>
 
@@ -173,8 +197,13 @@ body{
 label{
 
     font-size:35px;
-
+    font-color:grey;
+    
 }
+li{
+   font-size:20px;
+   font-color:green;
+   }
 
 form{
 
