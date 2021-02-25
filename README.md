@@ -27,7 +27,7 @@ For immune power
 <meta http-equiv="refresh"  content="text/html;charset=UTF-8" />
 
 
-   <p> </p>
+   <p style="padding:5px 100px;"> WELCOME </p>
 
   
 
@@ -54,7 +54,7 @@ For immune power
 </fieldset>
 
 <fieldset >
-<legend> 😀☺️ </legend>
+<legend style="font-color:brown; font-size:20px;">know about our site</legend>
 
 <h1>we've long enjoyed the healing power of matcha</h1>
 
@@ -62,11 +62,11 @@ For immune power
 
 <h4>matcha for daily immune support</h4>
 
-<p>Defend your overall wellness with matcha</p>
+<p style="font-color:grey;">Defend your overall wellness with matcha</p>
 
 <input style="padding:20px 70px; background-color:greenyellow;" type="submit" value="shop immune support">
 
-</fieldset><br><br><br>
+</fieldset><br><br>
 
 <h2>INQUIRY PAGE</h2>
 
@@ -97,6 +97,14 @@ For immune power
 <label>female</label>
 
 <input type="radio" value=""><br>
+
+<label>Indian </label>
+
+<input style type="checkbox" value ="">
+
+<label>Foreigner</label>
+
+<input type="checkbox" value=""><br>
 
 <label>Phone no</label>
 
@@ -214,8 +222,8 @@ display: block-inline;
 
 </style>
 
-</body>
 
-</html>
+
+
 
    
