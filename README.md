@@ -124,11 +124,11 @@ For immune power
 <input type="radio" value=""><br>
 <label>Nationality</label><br>
 
-<label>Indian </label>
+<label style="font-color:grey;">Indian </label>
 
 <input type="checkbox" value ="">
 
-<label>Foreigner</label>
+<label style="font-color:grey;">Foreigner</label>
 
 <input type="checkbox" value=""><br>
 
